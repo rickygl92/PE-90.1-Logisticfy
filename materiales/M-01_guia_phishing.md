@@ -20,12 +20,12 @@ Cada día recibimos decenas de correos de clientes, transportistas y proveedores
 
 ## Señales de alerta
 
-- [ ] La dirección del remitente se parece a la habitual, pero no es exactamente igual.
-- [ ] Hay prisa o presión: "hoy mismo", "es urgente", "no se lo comentes a nadie".
-- [ ] Se pide un cambio de cuenta bancaria, un pago fuera de lo normal o datos de destinatarios.
-- [ ] Al pasar el ratón por encima del enlace, **sin hacer clic**, la dirección que aparece abajo no es la de la web oficial.
-- [ ] Trae un adjunto que no esperabas, como un .zip, un .html o un documento que te pide "Habilitar contenido".
-- [ ] Te pide tu contraseña o un código de verificación. **Nadie de Logisticfy te lo pedirá nunca**, tampoco IT ni Dirección.
+1. La dirección del remitente se parece a la habitual, pero no es exactamente igual.
+2. Hay prisa o presión: "hoy mismo", "es urgente", "no se lo comentes a nadie".
+3. Se pide un cambio de cuenta bancaria, un pago fuera de lo normal o datos de destinatarios.
+4. Al pasar el ratón por encima del enlace, **sin hacer clic**, la dirección que aparece abajo no es la de la web oficial.
+5. Trae un adjunto que no esperabas, como un .zip, un .html o un documento que te pide "Habilitar contenido".
+6. Te pide tu contraseña o un código de verificación. **Nadie de Logisticfy te lo pedirá nunca**, tampoco IT ni Dirección.
 
 Basta con **una** señal para pararse y comprobar.
 

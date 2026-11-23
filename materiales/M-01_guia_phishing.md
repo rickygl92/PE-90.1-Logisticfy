@@ -45,4 +45,4 @@ Basta con **una** señal para pararse y comprobar.
 
 ---
 
-**¿Dudas?** Mejor preguntar antes que lamentarlo después. Puedes escribir a `seguridad@logisticfy.example` o llamar a la extensión 401.
+**¿Dudas?** Siempre haz una doble verificación. Puedes escribir a `seguridad@logisticfy.example` o llamar a la extensión 401.

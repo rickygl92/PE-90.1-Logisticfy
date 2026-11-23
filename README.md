@@ -2,6 +2,8 @@
 
 Propuesta de prevención y concienciación en ciberseguridad para Logisticfy, una empresa ficticia, elaborada para el módulo MF0490.
 
+**Autor:** Ricardo García López
+
 ## Contenido del repositorio
 
 | Archivo | Descripción |

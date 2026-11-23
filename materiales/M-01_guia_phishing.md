@@ -12,7 +12,7 @@ Cada día recibimos decenas de correos de clientes, transportistas y proveedores
 
 ## Tres situaciones que pueden pasarnos
 
-**1. "Hemos cambiado de banco."** Un transportista o proveedor avisa de que, a partir de ahora, las facturas se pagan en una cuenta nueva. El correo parece el de siempre, pero la dirección tiene una letra cambiada (`facturacion@transportes-rapid0s.example` en vez de `transportes-rapidos.example`).
+**1. "Hemos cambiado de banco."** Un transportista o proveedor avisa de que, a partir de ahora, las facturas se pagan en una cuenta nueva. El correo parece el de siempre, pero la dirección tiene un carácter cambiado: llega de `facturacion@transportes-rapid0s.example`, con un cero, en lugar de `transportes-rapidos.example`.
 
 **2. "Incidencia urgente con un envío."** Alguien que dice ser un cliente pide que le envíes los datos y la dirección del destinatario o que cambies la dirección de entrega "porque el camión ya está en camino".
 
@@ -23,8 +23,8 @@ Cada día recibimos decenas de correos de clientes, transportistas y proveedores
 - [ ] La dirección del remitente se parece a la habitual, pero no es exactamente igual.
 - [ ] Hay prisa o presión: "hoy mismo", "es urgente", "no se lo comentes a nadie".
 - [ ] Se pide un cambio de cuenta bancaria, un pago fuera de lo normal o datos de destinatarios.
-- [ ] Al pasar el ratón por encima del enlace (**sin hacer clic**), la dirección que aparece abajo no es la de la web oficial.
-- [ ] Trae un adjunto que no esperabas (.zip, .html o un documento que te pide "Habilitar contenido").
+- [ ] Al pasar el ratón por encima del enlace, **sin hacer clic**, la dirección que aparece abajo no es la de la web oficial.
+- [ ] Trae un adjunto que no esperabas, como un .zip, un .html o un documento que te pide "Habilitar contenido".
 - [ ] Te pide tu contraseña o un código de verificación. **Nadie de Logisticfy te lo pedirá nunca**, tampoco IT ni Dirección.
 
 Basta con **una** señal para pararse y comprobar.
@@ -32,9 +32,9 @@ Basta con **una** señal para pararse y comprobar.
 ## Qué hacer
 
 1. **No hagas clic, no abras el adjunto y no respondas.**
-2. **Si te piden dinero, un cambio de cuenta o datos, confírmalo por teléfono.** Llama al contacto que ya tenemos en el sistema, nunca al número que aparece en el correo (norma 10).
-3. **Avisa a IT.** Reenvía el correo **como adjunto** a `seguridad@logisticfy.example` y no lo borres (norma 14).
-4. **Si ya has hecho clic o has escrito tu contraseña, avisa igual y cuanto antes.** Llama al Responsable IT (extensión 401) y sigue sus indicaciones. Avisar de un error no tiene ninguna consecuencia negativa: lo que de verdad hace daño es el tiempo que pasa sin que IT lo sepa.
+2. **Si te piden dinero, un cambio de cuenta o datos, confírmalo por teléfono.** Llama al contacto que ya tenemos en el sistema, nunca al número que aparece en el correo. Así lo indica la norma 10.
+3. **Avisa a IT.** Reenvía el correo **como adjunto** a `seguridad@logisticfy.example` y no lo borres, como indica la norma 14.
+4. **Si ya has hecho clic o has escrito tu contraseña, avisa igual y cuanto antes.** Llama al Responsable IT a la extensión 401 y sigue sus indicaciones. Avisar de un error no tiene ninguna consecuencia negativa: lo que de verdad hace daño es el tiempo que pasa sin que IT lo sepa.
 
 ## Si eres de Administración: cambio de datos bancarios
 
